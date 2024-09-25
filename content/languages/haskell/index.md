@@ -32,9 +32,9 @@ dependencies:
 - haskell-src-exts
 - hspec
 - hspec-attoparsec
-- hspec-codewars
+- hspec-codewars # https://github.com/codewars/hspec-codewars
 - hspec-contrib
-- hspec-formatters-codewars
+- hspec-formatters-codewars # https://github.com/codewars/hspec-formatters-codewars
 - hspec-megaparsec
 - HUnit-approx
 - lens
